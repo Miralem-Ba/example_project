@@ -8,3 +8,21 @@ body {
     background-color: #333;
     color: white;
 }
+
+.nav{
+    width: 200px;
+    background-color: #f4f4f4;
+    padding: 15px;
+    /*height: 100vh; /* Vollständige Höhe */
+    
+  }
+
+.data-table{
+    width: 100%;
+    margin-bottom: 15px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+    text-align: left;
+}
+
